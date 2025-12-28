@@ -8,28 +8,65 @@
         {
           "level": 100,
           "name": "Foundations",
-          "topics": ["Python Programming", "Linear Algebra", "Calculus I & II", "Probability"],
+          "topics": [
+            "Python Programming",
+            "Linear Algebra",
+            "Calculus I & II",
+            "Probability"
+          ],
           "resources": [
-            {"title": "CS50: Introduction to Computer Science", "url": "https://cs50.harvard.edu/x/", "type": "Course"},
-            {"title": "Khan Academy: Linear Algebra", "url": "https://www.khanacademy.org/math/linear-algebra", "type": "Course"}
+            {
+              "title": "CS50: Introduction to Computer Science",
+              "url": "https://cs50.harvard.edu/x/",
+              "type": "Course"
+            },
+            {
+              "title": "Khan Academy: Linear Algebra",
+              "url": "https://www.khanacademy.org/math/linear-algebra",
+              "type": "Course"
+            }
           ]
         },
         {
           "level": 200,
           "name": "Core ML",
-          "topics": ["Statistical Inference", "Supervised Learning", "Unsupervised Learning"],
+          "topics": [
+            "Statistical Inference",
+            "Supervised Learning",
+            "Unsupervised Learning"
+          ],
           "resources": [
-            {"title": "Andrew Ng's Machine Learning", "url": "https://www.coursera.org/learn/machine-learning", "type": "Course"},
-            {"title": "ISLR Book", "url": "https://www.statlearning.com/", "type": "Book"}
+            {
+              "title": "Andrew Ng's Machine Learning",
+              "url": "https://www.coursera.org/learn/machine-learning",
+              "type": "Course"
+            },
+            {
+              "title": "ISLR Book",
+              "url": "https://www.statlearning.com/",
+              "type": "Book"
+            }
           ]
         },
         {
           "level": 300,
           "name": "Deep Learning & Specialization",
-          "topics": ["Neural Networks", "NLP", "Computer Vision"],
+          "topics": [
+            "Neural Networks",
+            "NLP",
+            "Computer Vision"
+          ],
           "resources": [
-            {"title": "Fast.ai", "url": "https://www.fast.ai/", "type": "Course"},
-            {"title": "Deep Learning Book (Goodfellow)", "url": "https://www.deeplearningbook.org/", "type": "Book"}
+            {
+              "title": "Fast.ai",
+              "url": "https://www.fast.ai/",
+              "type": "Course"
+            },
+            {
+              "title": "Deep Learning Book (Goodfellow)",
+              "url": "https://www.deeplearningbook.org/",
+              "type": "Book"
+            }
           ]
         }
       ]
@@ -42,12 +79,115 @@
         {
           "level": 100,
           "name": "Classical Mechanics",
-          "topics": ["Newtonian Mechanics", "Lagrangian Mechanics"],
+          "topics": [
+            "Newtonian Mechanics",
+            "Lagrangian Mechanics"
+          ],
           "resources": [
-             {"title": "Feynman Lectures Vol 1", "url": "https://www.feynmanlectures.caltech.edu/", "type": "Book"}
+            {
+              "title": "Feynman Lectures Vol 1",
+              "url": "https://www.feynmanlectures.caltech.edu/",
+              "type": "Book"
+            }
+          ]
+        },
+        {
+          "id": "embedded-systems-01",
+          "title": "Embedded Systems Engineering",
+          "description": "Mastering the hardware-software interface. From transistors to RTOS.",
+          "levels": [
+            {
+              "level": 100,
+              "name": "Digital Logic & C",
+              "topics": [
+                "Boolean Algebra",
+                "C Programming Pointers",
+                "Computer Architecture"
+              ],
+              "resources": [
+                {
+                  "title": "nand2tetris",
+                  "url": "https://www.nand2tetris.org/",
+                  "type": "Course"
+                },
+                {
+                  "title": "The C Programming Language (K&R)",
+                  "url": "https://en.wikipedia.org/wiki/The_C_Programming_Language",
+                  "type": "Book"
+                }
+              ]
+            },
+            {
+              "level": 200,
+              "name": "Microcontrollers (RISC-V/ARM)",
+              "topics": [
+                "Assembly Language",
+                "Interrupts",
+                "Memory Management"
+              ],
+              "resources": [
+                {
+                  "title": "RISC-V Reader",
+                  "url": "http://riscvbook.com/",
+                  "type": "Book"
+                },
+                {
+                  "title": "Embedded Systems - Shape the World (TI)",
+                  "url": "https://www.edx.org/course/embedded-systems-shape-the-world-microcontroller-inputoutput",
+                  "type": "Course"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bio-hacking-01",
+          "title": "Bio-Hacking & Synthetic Biology",
+          "description": "Democratizing biotechnology. Safety first.",
+          "levels": [
+            {
+              "level": 0,
+              "name": "Bio-Safety & Ethics",
+              "topics": [
+                "BSL-1 Guidelines",
+                "Laboratory Safety",
+                "Ethics of Genetic Engineering"
+              ],
+              "resources": [
+                {
+                  "title": "DIYbio.org Safety Code",
+                  "url": "https://diybio.org/safety/",
+                  "type": "Guide"
+                },
+                {
+                  "title": "iGEM Safety Hub",
+                  "url": "https://responsibility.igem.org/safety",
+                  "type": "Resource"
+                }
+              ]
+            },
+            {
+              "level": 100,
+              "name": "Molecular Biology Basics",
+              "topics": [
+                "Central Dogma",
+                "DNA Structure",
+                "PCR Basics"
+              ],
+              "resources": [
+                {
+                  "title": "Khan Academy: Molecular Biology",
+                  "url": "https://www.khanacademy.org/science/biology/gene-expression-central-dogma",
+                  "type": "Course"
+                },
+                {
+                  "title": "Addgene Protocol Database",
+                  "url": "https://www.addgene.org/protocols/",
+                  "type": "Resource"
+                }
+              ]
+            }
           ]
         }
       ]
     }
-  ]
-}
