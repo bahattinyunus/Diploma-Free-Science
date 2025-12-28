@@ -1,46 +1,46 @@
-# Data Science & Machine Learning
+# Veri Bilimi & Makine Öğrenimi
 
-_From zero to building neural networks. Equivalent to a Master's degree curriculum._
-
----
-
-## Level 100: Foundations
-
-### 🎯 Topics
-- [ ] Python Programming
-- [ ] Linear Algebra
-- [ ] Calculus I & II
-- [ ] Probability
-
-### 📚 Resources
-- `Course` [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/)
-- `Course` [Khan Academy: Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+_Sıfırdan sinir ağları inşa etmeye. Yüksek Lisans müfredatına eşdeğer._
 
 ---
 
-## Level 200: Core ML
+## Seviye 100: Temeller
 
-### 🎯 Topics
-- [ ] Statistical Inference
-- [ ] Supervised Learning
-- [ ] Unsupervised Learning
+### 🎯 Konular
+- [ ] Python Programlama
+- [ ] Lineer Cebir
+- [ ] Kalkülüs I & II
+- [ ] Olasılık
 
-### 📚 Resources
-- `Course` [Andrew Ng's Machine Learning](https://www.coursera.org/learn/machine-learning)
-- `Book` [ISLR Book](https://www.statlearning.com/)
+### 📚 Kaynaklar
+- `Kurs` [CS50: Bilgisayar Bilimine Giriş](https://cs50.harvard.edu/x/)
+- `Kurs` [Khan Academy: Lineer Cebir](https://www.khanacademy.org/math/linear-algebra)
 
 ---
 
-## Level 300: Deep Learning & Specialization
+## Seviye 200: Çekirdek ML
 
-### 🎯 Topics
-- [ ] Neural Networks
-- [ ] NLP
-- [ ] Computer Vision
+### 🎯 Konular
+- [ ] İstatistiksel Çıkarım
+- [ ] Denetimli Öğrenme
+- [ ] Denetimsiz Öğrenme
 
-### 📚 Resources
-- `Course` [Fast.ai](https://www.fast.ai/)
-- `Book` [Deep Learning Book (Goodfellow)](https://www.deeplearningbook.org/)
+### 📚 Kaynaklar
+- `Kurs` [Andrew Ng'den Makine Öğrenimi](https://www.coursera.org/learn/machine-learning)
+- `Kitap` [ISLR Kitabı](https://www.statlearning.com/)
+
+---
+
+## Seviye 300: Derin Öğrenme & Uzmanlaşma
+
+### 🎯 Konular
+- [ ] Sinir Ağları
+- [ ] NLP (Doğal Dil İşleme)
+- [ ] Bilgisayarlı Görme
+
+### 📚 Kaynaklar
+- `Kurs` [Fast.ai](https://www.fast.ai/)
+- `Kitap` [Deep Learning Kitabı (Goodfellow)](https://www.deeplearningbook.org/)
 
 ---
 

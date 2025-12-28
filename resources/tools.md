@@ -1,34 +1,34 @@
-# 🧰 The Citizen Scientist's Toolkit
+# 🧰 Vatandaş Bilim İnsanı'nın Alet Çantası
 
-A curated list of free, open-source, or accessible tools to replace expensive institutional software.
+Pahalı kurumsal yazılımların yerini alacak ücretsiz, açık kaynaklı veya erişilebilir araçların küratörlüğünü yapılmış bir listesi.
 
-## 📊 Data Analysis & Visualization
-| Tool | Alternative To | Description |
+## 📊 Veri Analizi & Görselleştirme
+| Araç | Alternatifi | Açıklama |
 | :--- | :--- | :--- |
-| **Python (Pandas/NumPy)** | Excel/SPSS | The industry standard for data manipulation. |
-| **R Project** | SPSS/SAS | Powerful statistical computing and graphics. |
-| **Jupyter Notebooks** | Mathematica | Interactive coding and documentation environment. |
-| **Matplotlib / Seaborn** | Tableau | Publication-quality plotting. |
-| **Orange Data Mining** | RapidMiner | Visual programming for data analytics. |
+| **Python (Pandas/NumPy)** | Excel/SPSS | Veri manipülasyonu için endüstri standardı. |
+| **R Project** | SPSS/SAS | Güçlü istatistiksel hesaplama ve grafikler. |
+| **Jupyter Notebooks** | Mathematica | Etkileşimli kodlama ve dokümantasyon ortamı. |
+| **Matplotlib / Seaborn** | Tableau | Yayın kalitesinde çizim. |
+| **Orange Data Mining** | RapidMiner | Veri analitiği için görsel programlama. |
 
-## ✍️ Writing & Publishing
-| Tool | Alternative To | Description |
+## ✍️ Yazım & Yayınlama
+| Araç | Alternatifi | Açıklama |
 | :--- | :--- | :--- |
-| **LaTeX (Overleaf)** | MS Word | The standard for scientific typesetting. |
-| **Zotero** | EndNote | Free, easy-to-use citation management tool. |
-| **LibreOffice** | MS Office | Open source office suite. |
+| **LaTeX (Overleaf)** | MS Word | Bilimsel dizgi için standart. |
+| **Zotero** | EndNote | Ücretsiz, kullanımı kolay atıf yönetim aracı. |
+| **LibreOffice** | MS Office | Açık kaynaklı ofis paketi. |
 
-## 🔬 Domain Specific
-### Physics & Engineering
--   **OpenFOAM:** Computational Fluid Dynamics (CFD).
--   **KiCad:** Electronics Design Automation (EDA).
--   **Octave:** Drop-in compatible alternative to MATLAB.
+## 🔬 Alana Özel
+### Fizik & Mühendislik
+-   **OpenFOAM:** Hesaplamalı Akışkanlar Dinamiği (CFD).
+-   **KiCad:** Elektronik Tasarım Otomasyonu (EDA).
+-   **Octave:** MATLAB'a tam uyumlu alternatif.
 
-### Biology & Chemistry
--   **Avogadro:** Advanced molecule editor and visualizer.
--   **PyMOL (Open Source):** Molecular visualization system.
+### Biyoloji & Kimya
+-   **Avogadro:** Gelişmiş molekül düzenleyici ve görselleştirici.
+-   **PyMOL (Open Source):** Moleküler görselleştirme sistemi.
 
-## 📚 Literature Search
--   **Google Scholar:** Broad search for scholarly literature.
--   **arXiv:** Open access e-prints in Physics, Math, CS.
--   **PubMed Central:** Free full-text archive of biomedical/life sciences journal literature.
+## 📚 Literatür Taraması
+-   **Google Scholar:** Akademik literatür için geniş kapsamlı arama.
+-   **arXiv:** Fizik, Matematik, CS alanlarında açık erişimli e-baskılar.
+-   **PubMed Central:** Biyomedikal/yaşam bilimleri dergi literatürünün ücretsiz tam metin arşivi.

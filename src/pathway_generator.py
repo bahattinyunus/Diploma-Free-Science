@@ -8,14 +8,14 @@ def generate_markdown(roadmap):
     md += "---\n\n"
 
     for level in roadmap['levels']:
-        md += f"## Level {level['level']}: {level['name']}\n\n"
+        md += f"## Seviye {level['level']}: {level['name']}\n\n"
         
-        md += "### 🎯 Topics\n"
+        md += "### 🎯 Konular\n"
         for topic in level['topics']:
             md += f"- [ ] {topic}\n"
         md += "\n"
 
-        md += "### 📚 Resources\n"
+        md += "### 📚 Kaynaklar\n"
         for resource in level['resources']:
             type_badge = f"`{resource['type']}`"
             md += f"- {type_badge} [{resource['title']}]({resource['url']})\n"

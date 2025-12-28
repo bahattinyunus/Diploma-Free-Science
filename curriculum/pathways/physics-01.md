@@ -1,17 +1,17 @@
-# Theoretical Physics
+# Teorik Fizik
 
-_Understanding the fundamental laws of the universe._
+_Evrenin temel yasalarını anlamak._
 
 ---
 
-## Level 100: Classical Mechanics
+## Seviye 100: Klasik Mekanik
 
-### 🎯 Topics
-- [ ] Newtonian Mechanics
-- [ ] Lagrangian Mechanics
+### 🎯 Konular
+- [ ] Newton Mekaniği
+- [ ] Lagrange Mekaniği
 
-### 📚 Resources
-- `Book` [Feynman Lectures Vol 1](https://www.feynmanlectures.caltech.edu/)
+### 📚 Kaynaklar
+- `Kitap` [Feynman Fizik Dersleri Cilt 1](https://www.feynmanlectures.caltech.edu/)
 
 ---
 

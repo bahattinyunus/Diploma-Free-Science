@@ -1,27 +1,27 @@
-# The Vision: The Invisible College Reborn 🎓
+# Vizyon: Görünmez Üniversite'nin Yeniden Doğuşu 🎓
 
-> "Knowledge, like air, is vital to life. Like air, no one should be denied it." - *Alan Moore*
+> "Bilgi, hava gibi, yaşam için hayati önem taşır. Hava gibi, kimse ondan mahrum bırakılmamalıdır." - *Alan Moore*
 
-## 1. The Core Philosophy
-**Diploma-Free-Science** is not just a repository; it is a movement. It challenges the gatekeeping of modern academia by asserting that **curiosity, rigor, and peer review** are the only true credentials of a scientist. We believe that in the age of information, the barrier to entry for high-level scientific contribution should be *commitment*, not tuition.
+## 1. Temel Felsefe
+**Diploma-Free-Science** sadece bir depo değil, bir harekettir. Modern akademinin bekçiliğine meydan okur ve bir bilim insanının tek gerçek kimlik bilgilerinin **merak, titizlik ve akran değerlendirmesi (peer review)** olduğunu iddia eder. Bilgi çağında, üst düzey bilimsel katkı için giriş engelinin harç parası değil, *adanmışlık* olması gerektiğine inanıyoruz.
 
-## 2. The "Invisible College" Concept
-Historically, the "Invisible College" referred to the network of philosophers and scientists who communicated and collaborated outside the rigid structures of the church and state universities in the 17th century. We are rebuilding this for the digital age.
+## 2. "Görünmez Üniversite" Kavramı
+Tarihsel olarak "Görünmez Üniversite", 17. yüzyılda kilise ve devlet üniversitelerinin katı yapılarının dışında iletişim kuran ve işbirliği yapan filozoflar ve bilim insanları ağını ifade ediyordu. Biz bunu dijital çağ için yeniden inşa ediyoruz.
 
-### Pillars of Our College:
--   **Radical Openness:** All tools, data, and knowledge must be accessible.
--   **Meritocracy of Ideas:** A contribution is judged by its validity, not the author's degree.
--   **Decentralized Verification:** Peer review is a community responsibility, not a publisher's monopoly.
+### Üniversitemizin Sütunları:
+-   **Radikal Açıklık:** Tüm araçlar, veriler ve bilgiler erişilebilir olmalıdır.
+-   **Fikirlerin Liyakati:** Bir katkı, yazarın diplomasıyla değil, geçerliliği ile yargılanır.
+-   **Merkeziyetsiz Doğrulama:** Akran değerlendirmesi bir yayıncının tekeli değil, bir topluluk sorumluluğudur.
 
-## 3. The Objective
-To create a complete, self-sustaining ecosystem where a motivated individual can:
-1.  **Learn:** Access curated, university-level curricula (from undergraduate to PhD level).
-2.  **Tools:** Utilize open-source tools that rival expensive proprietary software.
-3.  **Research:** Conduct valid research using open data and affordable hardware.
-4.  **Publish:** Share findings in open-access journals and preprint servers.
+## 3. Hedef
+Motive olmuş bir bireyin şunları yapabileceği eksiksiz, kendi kendine yeten bir ekosistem yaratmak:
+1.  **Öğren:** Küratörlüğü yapılmış, üniversite düzeyindeki müfredatlara eriş (lisanstan doktoraya).
+2.  **Araçlar:** Pahalı özel yazılımlara rakip olan açık kaynaklı araçları kullan.
+3.  **Araştırma:** Açık verileri ve uygun fiyatlı donanımları kullanarak geçerli araştırmalar yürüt.
+4.  **Yayınla:** Bulguları açık erişimli dergilerde ve ön baskı sunucularında paylaş.
 
-## 4. The "Citizen Scientist"
-We are empowering the **Citizen Scientist**—the pro-amateur who bridges the gap between hobbyist and professional. Whether you are investigating local environmental issues, exploring data science, or contributing to theoretical physics, this platform is your launchpad.
+## 4. "Vatandaş Bilim İnsanı"
+**Vatandaş Bilim İnsanı**'nı —hobbici ile profesyonel arasındaki boşluğu dolduran pro-amatörü— güçlendiriyoruz. İster yerel çevre sorunlarını araştırıyor, ister veri bilimi keşfediyor, ister teorik fiziğe katkıda bulunuyor olun, bu platform sizin fırlatma rampanızdır.
 
-## 5. Join the Vanguard
-This is an invitation to build the future of science. A future where the next Einstein or Curie could come from anywhere, unburdened by debt, fueled only by the desire to know.
+## 5. Öncülere Katılın
+Bu, bilimin geleceğini inşa etmek için bir davettir. Bir sonraki Einstein veya Curie'nin borç yükü altında ezilmeden, sadece bilme arzusuyla beslenerek herhangi bir yerden çıkabileceği bir gelecek.

@@ -1,34 +1,34 @@
-# Contributing to Diploma-Free-Science 🤝
+# Diploma-Free-Science'a Katkıda Bulunmak 🤝
 
-We are building the world's most comprehensive open university. We need your expertise!
+Dünyanın en kapsamlı açık üniversitesini inşa ediyoruz. Uzmanlığınıza ihtiyacımız var!
 
-## How You Can Contribute
+## Nasıl Katkıda Bulunabilirsiniz?
 
-### 1. Curate Curricula 📚
--   **Add Missing Topics:** Is our "Quantum Mechanics" roadmap missing a crucial resource? Add it.
--   **Verify Links:** Ensure all linked courses, books, and papers are still valid and free.
--   **Create New Paths:** Design a learning path for a niche field (e.g., *Mycology*, *FPGA Programming*).
+### 1. Müfredat Küratörlüğü 📚
+-   **Eksik Konuları Ekleyin:** "Kuantum Mekaniği" yol haritamızda hayati bir kaynak eksik mi? Ekleyin.
+-   **Linkleri Doğrulayın:** Bağlantılı tüm kursların, kitapların ve makalelerin hala geçerli ve ücretsiz olduğundan emin olun.
+-   **Yeni Yollar Oluşturun:** Niş bir alan için bir öğrenme yolu tasarlayın (örn. *Mikoloji*, *FPGA Programlama*).
 
-### 2. Tool & Resource Hunting 🛠️
--   Found an open-source alternative to MATLAB? A free database of chemical structures?
--   Add them to `resources/tools.md`.
+### 2. Araç & Kaynak Avcılığı 🛠️
+-   MATLAB'a açık kaynaklı bir alternatif mi buldunuz? Ücretsiz bir kimyasal yapı veritabanı mı?
+-   Bunları `resources/tools.md` dosyasına ekleyin.
 
-### 3. Code Contributions 💻
--   Improve our pathway generator scripts (`src/`).
--   Build new tools for tracking study progress or visualizing data.
+### 3. Kod Katkıları 💻
+-   Yol haritası oluşturucu betiklerimizi (`src/`) geliştirin.
+-   Çalışma ilerlemesini izlemek veya verileri görselleştirmek için yeni araçlar oluşturun.
 
-## Submission Guidelines
+## Gönderim Kuralları
 
-1.  **Fork** the repository.
-2.  **Branch** for your feature (`git checkout -b feature/amazing-resource`).
-3.  **Commit** your changes with clear messages.
-4.  **Push** to your fork.
-5.  **Open a Pull Request** (PR).
+1.  Repoyu **Fork**layın.
+2.  Özelliğiniz için bir **Branch** oluşturun (`git checkout -b ozellik/harika-kaynak`).
+3.  Değişikliklerinizi net mesajlarla **Commit**leyin.
+4.  Forkunuza **Push**layın.
+5.  Bir **Pull Request** (PR) açın.
 
-### Pull Request Standards
--   **Source Check:** All educational resources must be **legally free** (Open Access, OER, Public Domain). No pirated content.
--   **Quality:** Prioritize high-quality, university-level material (e.g., MIT OpenCourseWare, arXiv).
--   **Description:** Explain *why* this resource is valuable in your PR description.
+### Pull Request Standartları
+-   **Kaynak Kontrolü:** Tüm eğitim kaynakları **yasal olarak ücretsiz** olmalıdır (Açık Erişim, OER, Kamu Malı). Korsan içerik yok.
+-   **Kalite:** Yüksek kaliteli, üniversite düzeyindeki materyallere öncelik verin (örn. MIT OpenCourseWare, arXiv).
+-   **Açıklama:** Bu kaynağın *neden* değerli olduğunu PR açıklamanızda belirtin.
 
-## Code of Conduct
-be respectful. We are here to learn and teach. Constructive criticism is welcome; elitism is not.
+## Davranış Kuralları
+Saygılı olun. Öğrenmek ve öğretmek için buradayız. Yapıcı eleştiriye açığız; elitizme değil.

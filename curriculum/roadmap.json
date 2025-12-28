@@ -2,70 +2,70 @@
   "roadmaps": [
     {
       "id": "data-science-01",
-      "title": "Data Science & Machine Learning",
-      "description": "From zero to building neural networks. Equivalent to a Master's degree curriculum.",
+      "title": "Veri Bilimi & Makine Öğrenimi",
+      "description": "Sıfırdan sinir ağları inşa etmeye. Yüksek Lisans müfredatına eşdeğer.",
       "levels": [
         {
           "level": 100,
-          "name": "Foundations",
+          "name": "Temeller",
           "topics": [
-            "Python Programming",
-            "Linear Algebra",
-            "Calculus I & II",
-            "Probability"
+            "Python Programlama",
+            "Lineer Cebir",
+            "Kalkülüs I & II",
+            "Olasılık"
           ],
           "resources": [
             {
-              "title": "CS50: Introduction to Computer Science",
+              "title": "CS50: Bilgisayar Bilimine Giriş",
               "url": "https://cs50.harvard.edu/x/",
-              "type": "Course"
+              "type": "Kurs"
             },
             {
-              "title": "Khan Academy: Linear Algebra",
+              "title": "Khan Academy: Lineer Cebir",
               "url": "https://www.khanacademy.org/math/linear-algebra",
-              "type": "Course"
+              "type": "Kurs"
             }
           ]
         },
         {
           "level": 200,
-          "name": "Core ML",
+          "name": "Çekirdek ML",
           "topics": [
-            "Statistical Inference",
-            "Supervised Learning",
-            "Unsupervised Learning"
+            "İstatistiksel Çıkarım",
+            "Denetimli Öğrenme",
+            "Denetimsiz Öğrenme"
           ],
           "resources": [
             {
-              "title": "Andrew Ng's Machine Learning",
+              "title": "Andrew Ng'den Makine Öğrenimi",
               "url": "https://www.coursera.org/learn/machine-learning",
-              "type": "Course"
+              "type": "Kurs"
             },
             {
-              "title": "ISLR Book",
+              "title": "ISLR Kitabı",
               "url": "https://www.statlearning.com/",
-              "type": "Book"
+              "type": "Kitap"
             }
           ]
         },
         {
           "level": 300,
-          "name": "Deep Learning & Specialization",
+          "name": "Derin Öğrenme & Uzmanlaşma",
           "topics": [
-            "Neural Networks",
-            "NLP",
-            "Computer Vision"
+            "Sinir Ağları",
+            "NLP (Doğal Dil İşleme)",
+            "Bilgisayarlı Görme"
           ],
           "resources": [
             {
               "title": "Fast.ai",
               "url": "https://www.fast.ai/",
-              "type": "Course"
+              "type": "Kurs"
             },
             {
-              "title": "Deep Learning Book (Goodfellow)",
+              "title": "Deep Learning Kitabı (Goodfellow)",
               "url": "https://www.deeplearningbook.org/",
-              "type": "Book"
+              "type": "Kitap"
             }
           ]
         }
@@ -73,121 +73,123 @@
     },
     {
       "id": "physics-01",
-      "title": "Theoretical Physics",
-      "description": "Understanding the fundamental laws of the universe.",
+      "title": "Teorik Fizik",
+      "description": "Evrenin temel yasalarını anlamak.",
       "levels": [
         {
           "level": 100,
-          "name": "Classical Mechanics",
+          "name": "Klasik Mekanik",
           "topics": [
-            "Newtonian Mechanics",
-            "Lagrangian Mechanics"
+            "Newton Mekaniği",
+            "Lagrange Mekaniği"
           ],
           "resources": [
             {
-              "title": "Feynman Lectures Vol 1",
+              "title": "Feynman Fizik Dersleri Cilt 1",
               "url": "https://www.feynmanlectures.caltech.edu/",
-              "type": "Book"
+              "type": "Kitap"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "embedded-systems-01",
+      "title": "Gömülü Sistemler Mühendisliği",
+      "description": "Donanım-yazılım arayüzünde ustalaşmak. Transistörlerden RTOS'a.",
+      "levels": [
+        {
+          "level": 100,
+          "name": "Sayısal Mantık & C",
+          "topics": [
+            "Boolean Cebiri",
+            "C Programlama Göstericileri (Pointers)",
+            "Bilgisayar Mimarisi"
+          ],
+          "resources": [
+            {
+              "title": "nand2tetris",
+              "url": "https://www.nand2tetris.org/",
+              "type": "Kurs"
+            },
+            {
+              "title": "C Programlama Dili (K&R)",
+              "url": "https://en.wikipedia.org/wiki/The_C_Programming_Language",
+              "type": "Kitap"
             }
           ]
         },
         {
-          "id": "embedded-systems-01",
-          "title": "Embedded Systems Engineering",
-          "description": "Mastering the hardware-software interface. From transistors to RTOS.",
-          "levels": [
+          "level": 200,
+          "name": "Mikrodenetleyiciler (RISC-V/ARM)",
+          "topics": [
+            "Assembly Dili",
+            "Kesmeler (Interrupts)",
+            "Bellek Yönetimi"
+          ],
+          "resources": [
             {
-              "level": 100,
-              "name": "Digital Logic & C",
-              "topics": [
-                "Boolean Algebra",
-                "C Programming Pointers",
-                "Computer Architecture"
-              ],
-              "resources": [
-                {
-                  "title": "nand2tetris",
-                  "url": "https://www.nand2tetris.org/",
-                  "type": "Course"
-                },
-                {
-                  "title": "The C Programming Language (K&R)",
-                  "url": "https://en.wikipedia.org/wiki/The_C_Programming_Language",
-                  "type": "Book"
-                }
-              ]
+              "title": "RISC-V Reader",
+              "url": "http://riscvbook.com/",
+              "type": "Kitap"
             },
             {
-              "level": 200,
-              "name": "Microcontrollers (RISC-V/ARM)",
-              "topics": [
-                "Assembly Language",
-                "Interrupts",
-                "Memory Management"
-              ],
-              "resources": [
-                {
-                  "title": "RISC-V Reader",
-                  "url": "http://riscvbook.com/",
-                  "type": "Book"
-                },
-                {
-                  "title": "Embedded Systems - Shape the World (TI)",
-                  "url": "https://www.edx.org/course/embedded-systems-shape-the-world-microcontroller-inputoutput",
-                  "type": "Course"
-                }
-              ]
+              "title": "Embedded Systems - Shape the World (TI)",
+              "url": "https://www.edx.org/course/embedded-systems-shape-the-world-microcontroller-inputoutput",
+              "type": "Kurs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bio-hacking-01",
+      "title": "Biyo-Hacking & Sentetik Biyoloji",
+      "description": "Biyoteknolojinin demokratikleşmesi. Önce güvenlik.",
+      "levels": [
+        {
+          "level": 0,
+          "name": "Biyo-Güvenlik & Etik",
+          "topics": [
+            "BSL-1 Yönergeleri",
+            "Laboratuvar Güvenliği",
+            "Genetik Mühendisliği Etiği"
+          ],
+          "resources": [
+            {
+              "title": "DIYbio.org Güvenlik Kodu",
+              "url": "https://diybio.org/safety/",
+              "type": "Rehber"
+            },
+            {
+              "title": "iGEM Güvenlik Merkezi",
+              "url": "https://responsibility.igem.org/safety",
+              "type": "Kaynak"
             }
           ]
         },
         {
-          "id": "bio-hacking-01",
-          "title": "Bio-Hacking & Synthetic Biology",
-          "description": "Democratizing biotechnology. Safety first.",
-          "levels": [
+          "level": 100,
+          "name": "Moleküler Biyoloji Temelleri",
+          "topics": [
+            "Santral Dogma",
+            "DNA Yapısı",
+            "PCR Temelleri"
+          ],
+          "resources": [
             {
-              "level": 0,
-              "name": "Bio-Safety & Ethics",
-              "topics": [
-                "BSL-1 Guidelines",
-                "Laboratory Safety",
-                "Ethics of Genetic Engineering"
-              ],
-              "resources": [
-                {
-                  "title": "DIYbio.org Safety Code",
-                  "url": "https://diybio.org/safety/",
-                  "type": "Guide"
-                },
-                {
-                  "title": "iGEM Safety Hub",
-                  "url": "https://responsibility.igem.org/safety",
-                  "type": "Resource"
-                }
-              ]
+              "title": "Khan Academy: Moleküler Biyoloji",
+              "url": "https://www.khanacademy.org/science/biology/gene-expression-central-dogma",
+              "type": "Kurs"
             },
             {
-              "level": 100,
-              "name": "Molecular Biology Basics",
-              "topics": [
-                "Central Dogma",
-                "DNA Structure",
-                "PCR Basics"
-              ],
-              "resources": [
-                {
-                  "title": "Khan Academy: Molecular Biology",
-                  "url": "https://www.khanacademy.org/science/biology/gene-expression-central-dogma",
-                  "type": "Course"
-                },
-                {
-                  "title": "Addgene Protocol Database",
-                  "url": "https://www.addgene.org/protocols/",
-                  "type": "Resource"
-                }
-              ]
+              "title": "Addgene Protokol Veritabanı",
+              "url": "https://www.addgene.org/protocols/",
+              "type": "Kaynak"
             }
           ]
         }
       ]
     }
+  ]
+}
