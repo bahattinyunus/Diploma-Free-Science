@@ -1,27 +1,40 @@
-# Vizyon: Görünmez Üniversite'nin Yeniden Doğuşu 🎓
+# 👁️ Vizyon: Görünmez Üniversite (The Invisible University)
 
-> "Bilgi, hava gibi, yaşam için hayati önem taşır. Hava gibi, kimse ondan mahrum bırakılmamalıdır." - *Alan Moore*
+> *"Bilgi, kilitli kapıların ardında çürüyen bir hazine değildir. O, dolaşımda olması gereken bir para birimidir."*
 
-## 1. Temel Felsefe
-**Diploma-Free-Science** sadece bir depo değil, bir harekettir. Modern akademinin bekçiliğine meydan okur ve bir bilim insanının tek gerçek kimlik bilgilerinin **merak, titizlik ve akran değerlendirmesi (peer review)** olduğunu iddia eder. Bilgi çağında, üst düzey bilimsel katkı için giriş engelinin harç parası değil, *adanmışlık* olması gerektiğine inanıyoruz.
+**Diploma-Free Science**, sadece bir kaynak deposu değil; akademik feodalizme karşı bir başkaldırıdır.
 
-## 2. "Görünmez Üniversite" Kavramı
-Tarihsel olarak "Görünmez Üniversite", 17. yüzyılda kilise ve devlet üniversitelerinin katı yapılarının dışında iletişim kuran ve işbirliği yapan filozoflar ve bilim insanları ağını ifade ediyordu. Biz bunu dijital çağ için yeniden inşa ediyoruz.
+## 1. Modern Feodalizm ve Çöküş
+Akademi, orta çağ lonca sisteminin dijital çağdaki kalıntısıdır.
+-   **Lordlar:** Profesörler ve Kürsü Başkanları. (Bilgiyi kendi mülkleri sanarlar).
+-   **Haraç:** Öğrenci kredileri ve yüksek harçlar.
+-   **Aforoz:** "Hakemli Dergi" (Peer-Review) tekeli. Elsevier ve Springer gibi devler, halkın parasıyla yapılan bilimi halka satar.
 
-### Üniversitemizin Sütunları:
--   **Radikal Açıklık:** Tüm araçlar, veriler ve bilgiler erişilebilir olmalıdır.
--   **Fikirlerin Liyakati:** Bir katkı, yazarın diplomasıyla değil, geçerliliği ile yargılanır.
--   **Merkeziyetsiz Doğrulama:** Akran değerlendirmesi bir yayıncının tekeli değil, bir topluluk sorumluluğudur.
+Bu sistem sürdürülemez. Çöküyor. Ve biz, enkazın altından bilimi kurtarıyoruz.
 
-## 3. Hedef
-Motive olmuş bir bireyin şunları yapabileceği eksiksiz, kendi kendine yeten bir ekosistem yaratmak:
-1.  **Öğren:** Küratörlüğü yapılmış, üniversite düzeyindeki müfredatlara eriş (lisanstan doktoraya).
-2.  **Araçlar:** Pahalı özel yazılımlara rakip olan açık kaynaklı araçları kullan.
-3.  **Araştırma:** Açık verileri ve uygun fiyatlı donanımları kullanarak geçerli araştırmalar yürüt.
-4.  **Yayınla:** Bulguları açık erişimli dergilerde ve ön baskı sunucularında paylaş.
+## 2. Görünmez Üniversite Nedir?
+17. Yüzyılda, kilise baskısından kaçan bilim insanları (Boyle, Hooke, Newton) mektuplaşarak "Görünmez Kolej"i kurdular. Royal Society böyle doğdu.
+Bugün, internet bizim Görünmez Üniversitemizdir.
+-   **Kampüs Yok**: Her garaj, her yatak odası, her hackathon bir kampüstür.
+-   **Rektör Yok**: Liyakat hiyerarşisi vardır. Kodun çalışıyorsa, deneyin tekrarlanabiliyorsa, en büyük sensin.
+-   **Diploma Yok**: GitHub commitlerin, yazdığın bloglar, yayınladığın açık veriler senin diploman.
 
-## 4. "Vatandaş Bilim İnsanı"
-**Vatandaş Bilim İnsanı**'nı —hobbici ile profesyonel arasındaki boşluğu dolduran pro-amatörü— güçlendiriyoruz. İster yerel çevre sorunlarını araştırıyor, ister veri bilimi keşfediyor, ister teorik fiziğe katkıda bulunuyor olun, bu platform sizin fırlatma rampanızdır.
+## 3. 100 Yıllık Plan (The Long Game)
+Hedefimiz sadece "iş bulmak" değil. Hedefimiz bilimsel üretim araçlarını ele geçirmek.
 
-## 5. Öncülere Katılın
-Bu, bilimin geleceğini inşa etmek için bir davettir. Bir sonraki Einstein veya Curie'nin borç yükü altında ezilmeden, sadece bilme arzusuyla beslenerek herhangi bir yerden çıkabileceği bir gelecek.
+### Faz 1: Demokratizasyon (Şimdi)
+Bilgiye erişimin önündeki engelleri kaldırmak. (Sci-Hub, LibGen, OpenCourseWare). Bu repo bu fazın bir parçasıdır.
+
+### Faz 2: Merkeziyetsizleşme (2025-2035)
+Blokzincir tabanlı bilim (DeSci). Araştırmaların fonlanması ve doğrulanması için DAO'lar (Merkeziyetsiz Otonom Organizasyonlar) kurmak. Üniversitelerin onayına ihtiyaç duymadan araştırma yapmak.
+
+### Faz 3: Rönesans (2035+)
+Görünmez Üniversite'nin, klasik üniversiteleri geride bırakması. En parlak zihinlerin diplomayı reddedip doğrudan üretime katılması.
+
+---
+
+## 🔥 Çağrı
+Bu sessiz bir devrimdir.
+Hocanızdan izin istemeyin.
+Müfredatı beklemeyin.
+**Laboratuvarınızı kurun ve başlayın.**

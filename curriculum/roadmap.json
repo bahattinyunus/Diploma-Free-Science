@@ -190,6 +190,104 @@
           ]
         }
       ]
+    },
+    {
+      "id": "silicon-mind-01",
+      "title": "Silicon Mind: Yapay Zeka Mimarı",
+      "description": "Tüketen değil, üreten olun. LLM'ler, Ajanlar ve Etik.",
+      "levels": [
+        {
+          "level": 100,
+          "name": "Yapay Sinir Ağlarının Temelleri",
+          "topics": [
+            "Perceptron ve Backpropagation",
+            "Aktivasyon Fonksiyonları (ReLU, Sigmoid)",
+            "PyTorch ile Tensör İşlemleri"
+          ],
+          "resources": [
+            {
+              "title": "Andrej Karpathy: Neural Networks Zero to Hero",
+              "url": "https://karpathy.ai/zero-to-hero.html",
+              "type": "Video Serisi"
+            },
+            {
+              "title": "PyTorch Blitz",
+              "url": "https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html",
+              "type": "Rehber"
+            }
+          ]
+        },
+        {
+          "level": 200,
+          "name": "Büyük Dil Modelleri (LLMs)",
+          "topics": [
+            "Transformer Mimarisi (Attention is All You Need)",
+            "Tokenization & Embeddings",
+            "Fine-Tuning (LoRA, QLoRA)"
+          ],
+          "resources": [
+            {
+              "title": "The Illustrated Transformer",
+              "url": "http://jalammar.github.io/illustrated-transformer/",
+              "type": "Makale"
+            },
+            {
+              "title": "Hugging Face NLP Course",
+              "url": "https://huggingface.co/learn/nlp-course",
+              "type": "Kurs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "electron-wizard-01",
+      "title": "Electron Wizard: Donanım Büyücüsü",
+      "description": "Bitleri atomlara dönüştür. Gömülü Sistemler ve PCB Tasarımı.",
+      "levels": [
+        {
+          "level": 100,
+          "name": "Temel Elektronik & Lehimleme",
+          "topics": [
+            "Ohm Yasası & Kirchhoff Kuralları",
+            "Komponentler (Diyot, Transistör, Op-Amp)",
+            "Lehimleme Sanatı"
+          ],
+          "resources": [
+            {
+              "title": "EEVblog Electronics",
+              "url": "https://www.youtube.com/user/EEVblog",
+              "type": "Video Serisi"
+            },
+            {
+              "title": "All About Circuits Textbook",
+              "url": "https://www.allaboutcircuits.com/textbook/",
+              "type": "Kitap"
+            }
+          ]
+        },
+        {
+          "level": 200,
+          "name": "PCB Tasarımı & Tersine Mühendislik",
+          "topics": [
+            "KiCad ile Şematik Çizimi",
+            "PCB Layout Kuralları",
+            "Logic Analyzer Kullanımı"
+          ],
+          "resources": [
+            {
+              "title": "KiCad Like a Pro",
+              "url": "https://devbisme.github.io/kicad-3rd-party-tools/",
+              "type": "Rehber"
+            },
+            {
+              "title": "Phil's Lab: PCB Desgin",
+              "url": "https://www.youtube.com/@PhilsLab",
+              "type": "Video Serisi"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
