@@ -6,18 +6,19 @@ def generate_markdown(roadmap):
     md = f"# {roadmap['title']}\n\n"
     md += f"_{roadmap['description']}_\n\n"
     md += "---\n\n"
+    md += "> **⚠️ Not:** Bu dosya `roadmap.json` kaynak alınarak otomatik oluşturulmuştur. Lütfen doğrudan düzenlemeyiniz.\n\n"
 
     for level in roadmap['levels']:
-        md += f"## Seviye {level['level']}: {level['name']}\n\n"
+        md += f"## 📍 Seviye {level['level']}: {level['name']}\n\n"
         
-        md += "### 🎯 Konular\n"
+        md += "### 🎯 Öğrenilecek Konular\n"
         for topic in level['topics']:
             md += f"- [ ] {topic}\n"
         md += "\n"
 
-        md += "### 📚 Kaynaklar\n"
+        md += "### 📚 Önerilen Kaynaklar\n"
         for resource in level['resources']:
-            type_badge = f"`{resource['type']}`"
+            type_badge = f"![Badge](https://img.shields.io/badge/{resource['type']}-blue?style=flat-square)"
             md += f"- {type_badge} [{resource['title']}]({resource['url']})\n"
         
         md += "\n---\n\n"
@@ -36,7 +37,7 @@ def main():
         with open(json_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
         
-        print(f"Found {len(data['roadmaps'])} roadmaps.")
+        print(f"🚀 Roadmap yüklendi. Bulunan yol haritası sayısı: {len(data['roadmaps'])}")
 
         for roadmap in data['roadmaps']:
             filename = f"{roadmap['id']}.md"

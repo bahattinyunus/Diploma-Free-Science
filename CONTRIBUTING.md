@@ -1,34 +1,39 @@
-# Diploma-Free-Science'a Katkıda Bulunmak 🤝
+# 🤝 Katkıda Bulunma Rehberi (Contributing Guidelines)
 
-Dünyanın en kapsamlı açık üniversitesini inşa ediyoruz. Uzmanlığınıza ihtiyacımız var!
+**Diploma-Free Science** ("Görünmez Üniversite") yaşayan, nefes alan bir bilgi havuzudur. Bu yapıyı güçlendirmek sizin elinizde.
 
-## Nasıl Katkıda Bulunabilirsiniz?
+## Nasıl Katkı Sağlayabilirsiniz?
 
-### 1. Müfredat Küratörlüğü 📚
--   **Eksik Konuları Ekleyin:** "Kuantum Mekaniği" yol haritamızda hayati bir kaynak eksik mi? Ekleyin.
--   **Linkleri Doğrulayın:** Bağlantılı tüm kursların, kitapların ve makalelerin hala geçerli ve ücretsiz olduğundan emin olun.
--   **Yeni Yollar Oluşturun:** Niş bir alan için bir öğrenme yolu tasarlayın (örn. *Mikoloji*, *FPGA Programlama*).
+### 1. Yeni Kaynak Ekleme
+İnternetin derinliklerinde harika bir ücretsiz kurs, PDF veya video serisi mi buldunuz?
+- `curriculum/roadmap.json` dosyasına gidin.
+- İlgili "Level" ve "Resources" bölümünü bulun.
+- Kaynağı ekleyin:
+  ```json
+  {
+    "title": "Kaynağın Adı",
+    "url": "https://...",
+    "type": "Video/Makale/Kurs"
+  }
+  ```
 
-### 2. Araç & Kaynak Avcılığı 🛠️
--   MATLAB'a açık kaynaklı bir alternatif mi buldunuz? Ücretsiz bir kimyasal yapı veritabanı mı?
--   Bunları `resources/tools.md` dosyasına ekleyin.
+### 2. Müfredat Geliştirme
+Mevcut yollar (pathways) eksik mi? Yeni bir konu başlığı mı gerekli?
+- Bir "Issue" açarak tartışma başlatın.
+- Konunun neden gerekli olduğunu ve hangi sıraya ekleneceğini belirtin.
 
-### 3. Kod Katkıları 💻
--   Yol haritası oluşturucu betiklerimizi (`src/`) geliştirin.
--   Çalışma ilerlemesini izlemek veya verileri görselleştirmek için yeni araçlar oluşturun.
+### 3. Kod ve Otomasyon
+Repository'nin kalbi olan Python scriptlerini (`src/`) geliştirebilirsiniz.
+- Pull Request (PR) göndermeden önce kodunuzu yerel ortamda test edin.
+- `src/` içindeki scriptlerin UTF-8 uyumlu olduğundan emin olun.
 
-## Gönderim Kuralları
+## Pull Request Süreci
 
-1.  Repoyu **Fork**layın.
-2.  Özelliğiniz için bir **Branch** oluşturun (`git checkout -b ozellik/harika-kaynak`).
-3.  Değişikliklerinizi net mesajlarla **Commit**leyin.
-4.  Forkunuza **Push**layın.
-5.  Bir **Pull Request** (PR) açın.
+1.  Repoyu "Fork"layın.
+2.  Yeni bir "Branch" oluşturun (`git checkout -b feature/YeniKaynak`).
+3.  Değişikliklerinizi yapın ve detaylı bir "Commit" mesajı yazın.
+4.  PR gönderin ve topluluğun geri bildirimini bekleyin.
 
-### Pull Request Standartları
--   **Kaynak Kontrolü:** Tüm eğitim kaynakları **yasal olarak ücretsiz** olmalıdır (Açık Erişim, OER, Kamu Malı). Korsan içerik yok.
--   **Kalite:** Yüksek kaliteli, üniversite düzeyindeki materyallere öncelik verin (örn. MIT OpenCourseWare, arXiv).
--   **Açıklama:** Bu kaynağın *neden* değerli olduğunu PR açıklamanızda belirtin.
+---
 
-## Davranış Kuralları
-Saygılı olun. Öğrenmek ve öğretmek için buradayız. Yapıcı eleştiriye açığız; elitizme değil.
+*"Bilgi paylaştıkça çoğalır, saklandıkça çürür."*

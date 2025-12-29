@@ -4,14 +4,16 @@ _Evrenin temel yasalarını anlamak._
 
 ---
 
-## Seviye 100: Klasik Mekanik
+> **⚠️ Not:** Bu dosya `roadmap.json` kaynak alınarak otomatik oluşturulmuştur. Lütfen doğrudan düzenlemeyiniz.
 
-### 🎯 Konular
+## 📍 Seviye 100: Klasik Mekanik
+
+### 🎯 Öğrenilecek Konular
 - [ ] Newton Mekaniği
 - [ ] Lagrange Mekaniği
 
-### 📚 Kaynaklar
-- `Kitap` [Feynman Fizik Dersleri Cilt 1](https://www.feynmanlectures.caltech.edu/)
+### 📚 Önerilen Kaynaklar
+- ![Badge](https://img.shields.io/badge/Kitap-blue?style=flat-square) [Feynman Fizik Dersleri Cilt 1](https://www.feynmanlectures.caltech.edu/)
 
 ---
 
