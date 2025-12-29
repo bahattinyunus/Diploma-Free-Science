@@ -288,6 +288,55 @@
           ]
         }
       ]
+    },
+    {
+      "id": "quantum-mechanic-01",
+      "title": "Quantum Mechanic: Gerçekliğin Kodlayıcısı",
+      "description": "Klasik fiziğin bittiği yer. Qiskit, Süperpozisyon ve Dolanıklık.",
+      "levels": [
+        {
+          "level": 100,
+          "name": "Kuantum Mekaniği 101",
+          "topics": [
+            "Lineer Cebir (Tekrar)",
+            "Bra-Ket Notasyonu",
+            "Schrödinger Denklemi"
+          ],
+          "resources": [
+            {
+              "title": "Quantum Country",
+              "url": "https://quantum.country/",
+              "type": "İnteraktif Makale"
+            },
+            {
+              "title": "Susskind: Quantum Mechanics",
+              "url": "https://structural-learning.com/the-theoretical-minimum/",
+              "type": "Video Serisi"
+            }
+          ]
+        },
+        {
+          "level": 200,
+          "name": "Kuantum Programlama (Qiskit)",
+          "topics": [
+            "Qubitler ve Kuantum Kapıları (Hadamard, CNOT)",
+            "Kuantum Algoritmaları (Grover, Shor)",
+            "IBM Quantum Experience Kullanımı"
+          ],
+          "resources": [
+            {
+              "title": "Qiskit Textbook",
+              "url": "https://qiskit.org/textbook-beta/",
+              "type": "İnteraktif Kitap"
+            },
+            {
+              "title": "Coding with Qiskit",
+              "url": "https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY",
+              "type": "Video Serisi"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
