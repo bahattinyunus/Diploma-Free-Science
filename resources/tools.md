@@ -1,34 +1,48 @@
-# 🧰 Vatandaş Bilim İnsanı'nın Alet Çantası
+# ⚔️ The Armory: Bilim İçin Dijital & Fiziksel Silahlar
 
-Pahalı kurumsal yazılımların yerini alacak ücretsiz, açık kaynaklı veya erişilebilir araçların küratörlüğünü yapılmış bir listesi.
+> *"Bir usta aletleriyle tanınır. Bir isyancı ise aletlerini kendi yapar."*
 
-## 📊 Veri Analizi & Görselleştirme
-| Araç | Alternatifi | Açıklama |
-| :--- | :--- | :--- |
-| **Python (Pandas/NumPy)** | Excel/SPSS | Veri manipülasyonu için endüstri standardı. |
-| **R Project** | SPSS/SAS | Güçlü istatistiksel hesaplama ve grafikler. |
-| **Jupyter Notebooks** | Mathematica | Etkileşimli kodlama ve dokümantasyon ortamı. |
-| **Matplotlib / Seaborn** | Tableau | Yayın kalitesinde çizim. |
-| **Orange Data Mining** | RapidMiner | Veri analitiği için görsel programlama. |
+Görünmez Üniversite'nin öğrencisi olarak, laboratuvarınızı sırt çantanızda taşımanız gerekir. İşte hayatta kalma kitiniz.
 
-## ✍️ Yazım & Yayınlama
-| Araç | Alternatifi | Açıklama |
-| :--- | :--- | :--- |
-| **LaTeX (Overleaf)** | MS Word | Bilimsel dizgi için standart. |
-| **Zotero** | EndNote | Ücretsiz, kullanımı kolay atıf yönetim aracı. |
-| **LibreOffice** | MS Office | Açık kaynaklı ofis paketi. |
+## 💻 Donanım (Hardware)
 
-## 🔬 Alana Özel
-### Fizik & Mühendislik
--   **OpenFOAM:** Hesaplamalı Akışkanlar Dinamiği (CFD).
--   **KiCad:** Elektronik Tasarım Otomasyonu (EDA).
--   **Octave:** MATLAB'a tam uyumlu alternatif.
+### 1. The ThinkPad (T480 / X220)
+Neden MacBook değil de ThinkPad? Çünkü tamir edilebilir, ucuz ve Linux ile mükemmel çalışır.
+-   **Model**: T480 (Dört çekirdekli i5/i7, 8. Nesil)
+-   **Özellik**: "Power Bridge" batarya sistemi. Bilgisayarı kapatmadan pil değiştirebilirsiniz. Sahada veri toplarken hayat kurtarır.
+-   **Yükseltme**: 32GB RAM ve 1TB NVMe SSD takın.
 
-### Biyoloji & Kimya
--   **Avogadro:** Gelişmiş molekül düzenleyici ve görselleştirici.
--   **PyMOL (Open Source):** Moleküler görselleştirme sistemi.
+### 2. Raspberry Pi 5 (Laboratuvar Beyni)
+Sensör verilerini toplamak, web sunucusu çalıştırmak veya 7/24 çalışan bir bot yazmak için.
+-   **Kullanım**: Home Assistant ile laboratuvar ortam kontrolü (sıcaklık/nem).
 
-## 📚 Literatür Taraması
--   **Google Scholar:** Akademik literatür için geniş kapsamlı arama.
--   **arXiv:** Fizik, Matematik, CS alanlarında açık erişimli e-baskılar.
--   **PubMed Central:** Biyomedikal/yaşam bilimleri dergi literatürünün ücretsiz tam metin arşivi.
+### 3. Flipper Zero (Opsiyonel ama Eğlenceli)
+Radyo frekanslarını (RF), NFC ve RFID kartlarını analiz etmek için "İsviçre Çakısı".
+
+---
+
+## 🛡️ Yazılım (Software)
+
+### 1. Linux: Kalkanınız
+Windows sizi gözetler. macOS sizi kısıtlar. Linux size güç verir.
+-   **Başlangıç**: Linux Mint veya Fedora.
+-   **Advanced**: Arch Linux. (Sisteminizi son hücresine kadar anlayın).
+
+### 2. Obsidian: İkinci Beyniniz
+Notlarınızı yerel olarak tutun. Birbirine bağlayın. Kendi Wikipedia'nızı oluşturun.
+-   **Eklenti**: `Advanced URI` ve `Dataview` ile otomasyon yapın.
+
+### 3. Zotero: Akademik Cephanelik
+PDF'leri organize edin, not alın ve referans verin.
+-   **Hack**: `Zotero Connector` tarayıcı eklentisi + `Sci-Hub` entegrasyonu. Bilgiye para ödemeyin.
+
+### 4. VS Code / Neovim
+Kod yazmak, makale düzenlemek ve Git kullanmak için.
+
+---
+
+## 📡 Ağ & Güvenlik
+
+-   **Tor Browser**: Anonim araştırma için.
+-   **Signal**: Şifreli iletişim için.
+-   **Veracrypt**: Hassas verilerinizi (veya patentlik fikirlerinizi) şifrelemek için.
